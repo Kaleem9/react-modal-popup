@@ -1,6 +1,6 @@
 
 ## react-modal-popup
-
+# Fully Dymnamic and Customized Modal
 ```
 react-modal-popup/
   README.md
