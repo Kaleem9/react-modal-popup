@@ -1,6 +1,6 @@
 
-## react-modal-popup
-# Fully Dymnamic and Customized Modal
+# react-modal-popup
+### Fully Dymnamic and Customized Modal
 ```
 react-modal-popup/
   README.md
@@ -25,14 +25,14 @@ react-modal-popup/
 You just need to add <ModalButton {//attributes}  /> component.
 It will show a button. 
 
-# Attributes :
+## Attributes :
 
-- buttonName="demo" 
-- ModalBodyContent={/* Add <component /> here */}
-- ModalFooterContent={/* Add <component /> here */}
-- ModalTitle={/* Add <component /> here */}
-- customButtonClass="/* Add your class name*/"
-- customCloseButtonClass="/* Add class name */"
+### buttonName="/* give a name */" 
+### ModalBodyContent={/* Add <component /> here */}
+### ModalFooterContent={/* Add <component /> here */}
+### ModalTitle={/* Add <component /> here */}
+### customButtonClass="/* Add your class name*/"
+### customCloseButtonClass="/* Add class name */"
 
 
-#Thanks!
+# Thanks!
